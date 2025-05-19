@@ -15,6 +15,7 @@ Preferisco l’opzione da **4 mesi**: offre un buon equilibrio tra competizione 
 
 #### 🧮 Formula di Calcolo
 L'incremento dell'ELO per ogni 100 punti guadagnati è definito dalla seguente formula:
+
 $$
 \Delta ELO = \frac{100}{\left(  \frac{x +  1000}{2000}  \right)^{1.5}}
 $$
