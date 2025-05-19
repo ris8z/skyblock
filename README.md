@@ -14,6 +14,9 @@ Preferisco l’opzione da **4 mesi**: offre un buon equilibrio tra competizione 
 ### 📊 Sistema di Progressione ELO – Skyblock Competitiva
 
 #### 🧮 Formula di Calcolo
+
+![Grafico incremento ELO](https://drive.google.com/uc?export=view&id=1KHbNF5eYDojPgIPb9r4hbWSyS8g8C5Yd)
+
 L'incremento dell'ELO per ogni 100 punti guadagnati è definito dalla seguente formula:
 
 $$
