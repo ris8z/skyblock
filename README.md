@@ -62,47 +62,59 @@ $$
 
 ----------
 
-### Features?
+### Features
 
-- Custom Chest
-    - *how*
-      - contains just one type of element
-      - start with a fixed capacity i.e. 50k 
-      - upgrade it with game money until you get to Infinity
-    - *pro* vs *contro* (**MUST HAVE**)
+#### 🧰 Custom Chest
 
-- Custom Hopper
-    - *how*
-      - you can link it to a Custom Chest
-      - you can upgrade speed and range
-      - upgrade it with game money
-    - *pro*
-      - lagga meno
-      - fa molto figo
-    - *contro*
-      - levi molta redstone creativita'
+| Aspetto | Descrizione |
+|--------|-------------|
+| **Come funziona** | Contiene un solo tipo di elemento, parte con capacità fissa (es. 50k), si può potenziare con soldi del gioco fino a diventare infinito. |
+| **Pro** | Permette una gestione ordinata delle risorse; si può evolvere progressivamente. |
+| **Contro** | Limitato a un solo tipo di item, richiede upgrade costosi. |
 
-- Stack Spanwer 
-    - *how*
-      - max 25 for block
-      - mob stack non troppo eccessivo (non 10k se possibile)
-    - *pro*
-      - lagga meno
-    - *contro*
-      - levano belle missioni tipo i dischi
+---
 
-- Blocchi di valore
-    - staccabbili in un blocco
-    - *Idea altrenativa*
-        - block holder infinito: ci puoi mettere tutti i blochi di un tipo
-        - block holder x0.5: ci puoi mettere un K numeri di blocchi dove il loro valore e' * 0.5
-        - block holder x0.75: ci puoi mettere un K numeri di blocchi dove il loro valore e' * 0.75
-        - magari li metti in delle creates e quindi sono rari, ottenibbili o con i $ veri o missioni
+#### 🔗 Custom Hopper
 
-- Minion ?
-    - per automatizzare roba che disolito non puoi fare
-        - farm automatica di blocchi al generatore 
-        - farm automatica di legna (spacca albero e te lo ripianta)
+| Aspetto | Descrizione |
+|--------|-------------|
+| **Come funziona** | Può essere collegato a un Custom Chest. Si possono potenziare **velocità** e **raggio d’azione** con soldi del gioco. |
+| **Pro** | Lagga meno, esteticamente bello e pulito. |
+| **Contro** | Elimina la creatività legata alla redstone tradizionale. |
+
+---
+
+#### 🧟 Stack Spawner
+
+| Aspetto | Descrizione |
+|--------|-------------|
+| **Come funziona** | Si possono avere massimo 25 mob per blocco. I mob si stackano, ma non troppo (no 10k mob in uno). |
+| **Pro** | Riduce notevolmente il lag da entità. |
+| **Contro** | Rende alcune missioni meno interessanti, es. quelle dei dischi musicali. |
+
+---
+
+#### 💎 Blocchi di Valore / Holder
+
+| Aspetto | Descrizione |
+|--------|-------------|
+| **Come funziona** | Blocchi "staccabili" che si raggruppano in uno solo. Alternative: |
+| - Block Holder ∞ | Contiene infiniti blocchi di un tipo. |
+| - Block Holder x0.5 | Contiene K blocchi, ciascuno vale il 50%. |
+| - Block Holder x0.75 | Contiene K blocchi, ciascuno vale il 75%. |
+| **Extra Idea** | Rarità: si possono trovare in *creates* o acquistare con soldi veri / completando missioni. |
+| **Pro** | Ottimizzazione dello spazio, possibile monetizzazione e rarità. |
+| **Contro** | Rischia di rompere l’equilibrio di valore nel gameplay. |
+
+---
+
+#### 🤖 Minion
+
+| Aspetto | Descrizione |
+|--------|-------------|
+| **Come funziona** | Automatizzano task normalmente manuali. Es: <br>– farm automatica di blocchi da generatore <br>– farm di legna (spacca e ripianta). |
+| **Pro** | Comodità estrema, automatizzazione intelligente. |
+| **Contro** | Potrebbe rendere inutili intere parti del gameplay manuale. |
 
 ----------
 
